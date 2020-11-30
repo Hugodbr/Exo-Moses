@@ -1,0 +1,344 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.9" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0/LocalCache/local-packages/Python38/site-packages" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/845713154" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="C:\Users\hugod\PycharmProjects\pythonProject2\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1520.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1520.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject2/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject2/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/1111060043" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pythonProject2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject3basics)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\pythonProject3basics\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject3basics/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject3basics/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/521740625" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pythonProject3basics" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (Zumbinos)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\Zumbinos\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Zumbinos/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Zumbinos/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-789628529" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Zumbinos" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (Pygamey)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\Pygamey\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Pygamey/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Pygamey/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-932634488" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Pygamey" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (rascunho)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="C:\Users\hugod\PycharmProjects\rascunho\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1520.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1520.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/rascunho/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/rascunho/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/1287346741" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/rascunho" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\pythonProject3\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject3/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject3/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-966149300" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pythonProject3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\pythonProject4\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject4/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject4/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/1251608653" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pythonProject4" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\pythonProject5\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject5/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject5/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject5/venv/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject5/venv/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonProject5/venv/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-825600690" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pythonProject5" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonHanoi)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\pythonHanoi\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonHanoi/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/pythonHanoi/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/893338109" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pythonHanoi" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (ben)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\ben\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ben/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ben/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-1869449003" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/ben" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (Exo-Moses)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.6" />
+      <homePath value="C:\Users\hugod\PycharmProjects\Exo-Moses\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Exo-Moses/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Exo-Moses/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/48159768" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Exo-Moses" />
+    </jdk>
+  </component>
+</application>
